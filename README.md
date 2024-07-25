@@ -1,6 +1,5 @@
 ### 👨‍💻 Desenvolvedor de Software<hr>
-
-<p> Olá, sou desenvolvedor de software apaixonado por tecnologia e por moldar um mundo através da programação. Aqui tenho alguns projetos com o objeto de me desenvolver e praticar.</p><hr>
+<div><p> Olá, sou desenvolvedor de software apaixonado por tecnologia e por moldar um mundo através da programação. Aqui tenho alguns projetos com o objeto de me desenvolver e praticar.</p><hr></div>
 
 ![França GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofrancasantos&show_icons=true&theme=dracula)
 
@@ -14,3 +13,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
 </div>
+
